@@ -1,0 +1,344 @@
+[INFO] Scanning for projects...
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/mojo/maven-metadata.xml
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-metadata.xml
+Progress (1): 3.2 kBProgress (2): 3.2 kB | 3.7 kBProgress (2): 3.2 kB | 7.5 kBProgress (2): 9.4 kB | 7.5 kBProgress (2): 9.4 kB | 13 kB Progress (2): 14 kB | 13 kB Progress (2): 14 kB | 19 kBProgress (2): 14 kB | 20 kB                           Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/mojo/maven-metadata.xml (20 kB at 65 kB/s)
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-metadata.xml (14 kB at 46 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-help-plugin/maven-metadata.xml
+Progress (1): 838 B                   Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-help-plugin/maven-metadata.xml (838 B at 18 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-help-plugin/3.5.2/maven-help-plugin-3.5.2.pom
+Progress (1): 776 BProgress (1): 1.6 kBProgress (1): 4.0 kBProgress (1): 8.3 kBProgress (1): 10 kB Progress (1): 10 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-help-plugin/3.5.2/maven-help-plugin-3.5.2.pom (10 kB at 131 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/49/maven-plugins-49.pom
+Progress (1): 772 BProgress (1): 1.8 kBProgress (1): 4.3 kBProgress (1): 7.2 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/49/maven-plugins-49.pom (7.2 kB at 120 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/49/maven-parent-49.pom
+Progress (1): 780 BProgress (1): 1.7 kBProgress (1): 5.0 kBProgress (1): 7.7 kBProgress (1): 12 kB Progress (1): 16 kBProgress (1): 19 kBProgress (1): 23 kBProgress (1): 27 kBProgress (1): 28 kBProgress (1): 31 kBProgress (1): 35 kBProgress (1): 37 kBProgress (1): 39 kBProgress (1): 43 kBProgress (1): 45 kBProgress (1): 48 kBProgress (1): 51 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/49/maven-parent-49.pom (51 kB at 815 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/apache/39/apache-39.pom
+Progress (1): 759 BProgress (1): 1.7 kBProgress (1): 3.5 kBProgress (1): 5.5 kBProgress (1): 7.2 kBProgress (1): 7.3 kBProgress (1): 12 kB Progress (1): 17 kBProgress (1): 19 kBProgress (1): 22 kBProgress (1): 25 kBProgress (1): 27 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/apache/39/apache-39.pom (27 kB at 530 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.14.4/junit-bom-5.14.4.pom
+Progress (1): 908 BProgress (1): 2.2 kBProgress (1): 5.7 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.14.4/junit-bom-5.14.4.pom (5.7 kB at 123 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-help-plugin/3.5.2/maven-help-plugin-3.5.2.jar
+Progress (1): 0.9/72 kBProgress (1): 2.3/72 kBProgress (1): 3.6/72 kBProgress (1): 5.0/72 kBProgress (1): 6.4/72 kBProgress (1): 7.7/72 kBProgress (1): 9.1/72 kBProgress (1): 10/72 kB Progress (1): 12/72 kBProgress (1): 13/72 kBProgress (1): 15/72 kBProgress (1): 16/72 kBProgress (1): 20/72 kBProgress (1): 24/72 kBProgress (1): 29/72 kBProgress (1): 33/72 kBProgress (1): 37/72 kBProgress (1): 41/72 kBProgress (1): 46/72 kBProgress (1): 50/72 kBProgress (1): 54/72 kBProgress (1): 58/72 kBProgress (1): 62/72 kBProgress (1): 67/72 kBProgress (1): 71/72 kBProgress (1): 72 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-help-plugin/3.5.2/maven-help-plugin-3.5.2.jar (72 kB at 1.0 MB/s)
+[INFO] 
+[INFO] --------------< PlaywrightPOMSeries:PlaywrightPOMSeries >---------------
+[INFO] Building PlaywrightPOMSeries 1.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- help:3.5.2:effective-pom (default-cli) @ PlaywrightPOMSeries ---
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.15.2/maven-plugin-tools-generators-3.15.2.pom
+Progress (1): 842 BProgress (1): 3.5 kBProgress (1): 3.8 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.15.2/maven-plugin-tools-generators-3.15.2.pom (3.8 kB at 67 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools/3.15.2/maven-plugin-tools-3.15.2.pom
+Progress (1): 792 BProgress (1): 2.3 kBProgress (1): 4.0 kBProgress (1): 9.0 kBProgress (1): 13 kB Progress (1): 16 kBProgress (1): 18 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools/3.15.2/maven-plugin-tools-3.15.2.pom (18 kB at 245 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/jsoup/jsoup/1.19.1/jsoup-1.19.1.pom
+Progress (1): 775 BProgress (1): 2.3 kBProgress (1): 4.4 kBProgress (1): 7.5 kBProgress (1): 11 kB Progress (1): 12 kBProgress (1): 16 kBProgress (1): 17 kBProgress (1): 20 kBProgress (1): 21 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/jsoup/jsoup/1.19.1/jsoup-1.19.1.pom (21 kB at 360 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/4.0.0/maven-reporting-api-4.0.0.pom
+Progress (1): 791 BProgress (1): 2.4 kBProgress (1): 2.8 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/4.0.0/maven-reporting-api-4.0.0.pom (2.8 kB at 59 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interactivity-api/1.5.1/plexus-interactivity-api-1.5.1.pom
+Progress (1): 1.6 kBProgress (1): 1.7 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interactivity-api/1.5.1/plexus-interactivity-api-1.5.1.pom (1.7 kB at 39 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interactivity/1.5.1/plexus-interactivity-1.5.1.pom
+Progress (1): 1.3 kBProgress (1): 1.7 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interactivity/1.5.1/plexus-interactivity-1.5.1.pom (1.7 kB at 26 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/4.0.3/plexus-utils-4.0.3.pom
+Progress (1): 1.0 kBProgress (1): 3.0 kBProgress (1): 6.8 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/4.0.3/plexus-utils-4.0.3.pom (6.8 kB at 151 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.21/xstream-1.4.21.pom
+Progress (1): 850 BProgress (1): 4.2 kBProgress (1): 7.2 kBProgress (1): 9.9 kBProgress (1): 14 kB Progress (1): 22 kBProgress (1): 24 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.21/xstream-1.4.21.pom (24 kB at 310 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.4.21/xstream-parent-1.4.21.pom
+Progress (1): 878 BProgress (1): 3.6 kBProgress (1): 6.2 kBProgress (1): 7.7 kBProgress (1): 12 kB Progress (1): 15 kBProgress (1): 21 kBProgress (1): 26 kBProgress (1): 30 kBProgress (1): 35 kBProgress (1): 39 kBProgress (1): 42 kBProgress (1): 42 kBProgress (1): 44 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.4.21/xstream-parent-1.4.21.pom (44 kB at 529 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/io/github/x-stream/mxparser/1.2.2/mxparser-1.2.2.pom
+Progress (1): 842 BProgress (1): 3.0 kBProgress (1): 6.4 kBProgress (1): 7.7 kBProgress (1): 12 kB Progress (1): 17 kBProgress (1): 21 kBProgress (1): 24 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/io/github/x-stream/mxparser/1.2.2/mxparser-1.2.2.pom (24 kB at 103 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.pom
+Progress (1): 386 B                   Downloaded from central: https://repo.maven.apache.org/maven2/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.pom (386 B at 2.8 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.15.2/maven-plugin-tools-generators-3.15.2.jar
+Progress (1): 7.7/42 kBProgress (1): 16/42 kB Progress (1): 32/42 kBProgress (1): 42 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.15.2/maven-plugin-tools-generators-3.15.2.jar (42 kB at 458 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/jsoup/jsoup/1.19.1/jsoup-1.19.1.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/4.0.0/maven-reporting-api-4.0.0.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interactivity-api/1.5.1/plexus-interactivity-api-1.5.1.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/4.0.3/plexus-utils-4.0.3.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/jdom/jdom2/2.0.6.1/jdom2-2.0.6.1.jar
+Progress (1): 0.9/9.8 kBProgress (1): 2.3/9.8 kBProgress (1): 3.6/9.8 kBProgress (1): 5.0/9.8 kBProgress (1): 6.4/9.8 kBProgress (1): 7.7/9.8 kBProgress (1): 9.1/9.8 kBProgress (1): 9.8 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/4.0.0/maven-reporting-api-4.0.0.jar (9.8 kB at 61 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.21/xstream-1.4.21.jar
+Progress (1): 0.9/193 kBProgress (1): 2.3/193 kBProgress (1): 3.6/193 kBProgress (1): 5.0/193 kBProgress (1): 6.4/193 kBProgress (1): 7.7/193 kBProgress (1): 9.1/193 kBProgress (1): 10/193 kB Progress (1): 12/193 kBProgress (1): 13/193 kBProgress (1): 15/193 kBProgress (1): 16/193 kBProgress (1): 17/193 kBProgress (1): 19/193 kBProgress (1): 20/193 kBProgress (1): 21/193 kBProgress (1): 23/193 kBProgress (1): 24/193 kBProgress (1): 25/193 kBProgress (1): 27/193 kBProgress (1): 28/193 kBProgress (1): 30/193 kBProgress (1): 31/193 kBProgress (1): 32/193 kBProgress (1): 34/193 kBProgress (1): 35/193 kBProgress (1): 36/193 kBProgress (1): 38/193 kBProgress (1): 39/193 kBProgress (1): 41/193 kBProgress (1): 42/193 kBProgress (1): 43/193 kBProgress (1): 45/193 kBProgress (1): 46/193 kBProgress (1): 47/193 kBProgress (1): 49/193 kBProgress (1): 50/193 kBProgress (1): 51/193 kBProgress (1): 53/193 kBProgress (1): 54/193 kBProgress (1): 56/193 kBProgress (1): 60/193 kBProgress (2): 60/193 kB | 0.9/328 kBProgress (2): 60/193 kB | 2.3/328 kBProgress (2): 60/193 kB | 3.6/328 kBProgress (2): 60/193 kB | 5.0/328 kBProgress (2): 60/193 kB | 6.4/328 kBProgress (2): 60/193 kB | 7.7/328 kBProgress (2): 60/193 kB | 9.1/328 kBProgress (2): 60/193 kB | 10/328 kB Progress (2): 64/193 kB | 10/328 kBProgress (2): 64/193 kB | 12/328 kBProgress (2): 64/193 kB | 13/328 kBProgress (2): 68/193 kB | 13/328 kBProgress (2): 68/193 kB | 15/328 kBProgress (2): 68/193 kB | 16/328 kBProgress (2): 68/193 kB | 17/328 kBProgress (2): 68/193 kB | 19/328 kBProgress (2): 68/193 kB | 20/328 kBProgress (2): 68/193 kB | 21/328 kBProgress (2): 68/193 kB | 23/328 kBProgress (2): 68/193 kB | 24/328 kBProgress (2): 68/193 kB | 26/328 kBProgress (2): 68/193 kB | 27/328 kBProgress (2): 68/193 kB | 28/328 kBProgress (2): 68/193 kB | 30/328 kBProgress (2): 68/193 kB | 31/328 kBProgress (2): 68/193 kB | 32/328 kBProgress (2): 68/193 kB | 34/328 kBProgress (2): 68/193 kB | 35/328 kBProgress (2): 68/193 kB | 36/328 kBProgress (2): 68/193 kB | 38/328 kBProgress (2): 68/193 kB | 39/328 kBProgress (2): 68/193 kB | 41/328 kBProgress (2): 68/193 kB | 42/328 kBProgress (2): 68/193 kB | 43/328 kBProgress (2): 68/193 kB | 45/328 kBProgress (2): 68/193 kB | 46/328 kBProgress (2): 68/193 kB | 47/328 kBProgress (2): 68/193 kB | 49/328 kBProgress (2): 68/193 kB | 50/328 kBProgress (2): 68/193 kB | 52/328 kBProgress (2): 68/193 kB | 53/328 kBProgress (2): 68/193 kB | 54/328 kBProgress (2): 68/193 kB | 56/328 kBProgress (2): 68/193 kB | 60/328 kBProgress (2): 68/193 kB | 64/328 kBProgress (2): 68/193 kB | 68/328 kBProgress (2): 73/193 kB | 68/328 kBProgress (2): 77/193 kB | 68/328 kBProgress (2): 77/193 kB | 73/328 kBProgress (2): 81/193 kB | 73/328 kBProgress (2): 81/193 kB | 77/328 kBProgress (2): 85/193 kB | 77/328 kBProgress (2): 89/193 kB | 77/328 kBProgress (3): 89/193 kB | 77/328 kB | 0.9/10 kBProgress (3): 89/193 kB | 77/328 kB | 2.3/10 kBProgress (3): 94/193 kB | 77/328 kB | 2.3/10 kBProgress (3): 94/193 kB | 77/328 kB | 3.6/10 kBProgress (3): 98/193 kB | 77/328 kB | 3.6/10 kBProgress (3): 98/193 kB | 77/328 kB | 5.0/10 kBProgress (3): 98/193 kB | 77/328 kB | 6.4/10 kBProgress (3): 102/193 kB | 77/328 kB | 6.4/10 kBProgress (3): 102/193 kB | 77/328 kB | 7.7/10 kBProgress (3): 106/193 kB | 77/328 kB | 7.7/10 kBProgress (3): 106/193 kB | 77/328 kB | 9.1/10 kBProgress (3): 106/193 kB | 77/328 kB | 10 kB    Progress (3): 111/193 kB | 77/328 kB | 10 kBProgress (3): 115/193 kB | 77/328 kB | 10 kB                                            Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interactivity-api/1.5.1/plexus-interactivity-api-1.5.1.jar (10 kB at 51 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/io/github/x-stream/mxparser/1.2.2/mxparser-1.2.2.jar
+Progress (2): 119/193 kB | 77/328 kBProgress (2): 123/193 kB | 77/328 kBProgress (2): 127/193 kB | 77/328 kBProgress (2): 132/193 kB | 77/328 kBProgress (2): 136/193 kB | 77/328 kBProgress (2): 140/193 kB | 77/328 kBProgress (2): 144/193 kB | 77/328 kBProgress (2): 149/193 kB | 77/328 kBProgress (2): 153/193 kB | 77/328 kBProgress (2): 155/193 kB | 77/328 kBProgress (2): 159/193 kB | 77/328 kBProgress (2): 164/193 kB | 77/328 kBProgress (2): 168/193 kB | 77/328 kBProgress (2): 172/193 kB | 77/328 kBProgress (2): 172/193 kB | 81/328 kBProgress (2): 176/193 kB | 81/328 kBProgress (2): 176/193 kB | 85/328 kBProgress (2): 181/193 kB | 85/328 kBProgress (3): 181/193 kB | 85/328 kB | 0.9/647 kBProgress (3): 181/193 kB | 89/328 kB | 0.9/647 kBProgress (3): 181/193 kB | 89/328 kB | 2.3/647 kBProgress (3): 185/193 kB | 89/328 kB | 2.3/647 kBProgress (3): 185/193 kB | 94/328 kB | 2.3/647 kBProgress (3): 185/193 kB | 94/328 kB | 3.6/647 kBProgress (3): 185/193 kB | 94/328 kB | 5.0/647 kBProgress (3): 185/193 kB | 94/328 kB | 6.4/647 kBProgress (3): 185/193 kB | 94/328 kB | 7.7/647 kBProgress (3): 185/193 kB | 94/328 kB | 9.1/647 kBProgress (3): 185/193 kB | 94/328 kB | 10/647 kB Progress (3): 185/193 kB | 94/328 kB | 11/647 kBProgress (3): 185/193 kB | 94/328 kB | 13/647 kBProgress (3): 185/193 kB | 94/328 kB | 14/647 kBProgress (3): 185/193 kB | 94/328 kB | 15/647 kBProgress (3): 185/193 kB | 94/328 kB | 17/647 kBProgress (3): 185/193 kB | 94/328 kB | 18/647 kBProgress (3): 185/193 kB | 94/328 kB | 20/647 kBProgress (3): 185/193 kB | 94/328 kB | 21/647 kBProgress (3): 185/193 kB | 98/328 kB | 21/647 kBProgress (3): 185/193 kB | 98/328 kB | 22/647 kBProgress (3): 185/193 kB | 98/328 kB | 24/647 kBProgress (3): 185/193 kB | 102/328 kB | 24/647 kBProgress (3): 185/193 kB | 102/328 kB | 25/647 kBProgress (3): 185/193 kB | 106/328 kB | 25/647 kBProgress (3): 185/193 kB | 106/328 kB | 26/647 kBProgress (3): 185/193 kB | 106/328 kB | 28/647 kBProgress (3): 185/193 kB | 111/328 kB | 28/647 kBProgress (3): 185/193 kB | 111/328 kB | 29/647 kBProgress (3): 185/193 kB | 115/328 kB | 29/647 kBProgress (3): 185/193 kB | 115/328 kB | 31/647 kBProgress (3): 185/193 kB | 115/328 kB | 32/647 kBProgress (3): 185/193 kB | 115/328 kB | 33/647 kBProgress (3): 185/193 kB | 115/328 kB | 35/647 kBProgress (3): 185/193 kB | 115/328 kB | 36/647 kBProgress (3): 185/193 kB | 115/328 kB | 37/647 kBProgress (3): 185/193 kB | 115/328 kB | 39/647 kBProgress (3): 185/193 kB | 115/328 kB | 40/647 kBProgress (3): 185/193 kB | 115/328 kB | 41/647 kBProgress (3): 185/193 kB | 115/328 kB | 43/647 kBProgress (3): 185/193 kB | 119/328 kB | 43/647 kBProgress (3): 185/193 kB | 119/328 kB | 44/647 kBProgress (3): 185/193 kB | 119/328 kB | 48/647 kBProgress (3): 185/193 kB | 119/328 kB | 53/647 kBProgress (3): 185/193 kB | 123/328 kB | 53/647 kBProgress (3): 185/193 kB | 123/328 kB | 57/647 kBProgress (3): 185/193 kB | 123/328 kB | 61/647 kBProgress (3): 185/193 kB | 128/328 kB | 61/647 kBProgress (3): 185/193 kB | 131/328 kB | 61/647 kBProgress (3): 185/193 kB | 131/328 kB | 65/647 kBProgress (3): 185/193 kB | 135/328 kB | 65/647 kBProgress (3): 185/193 kB | 139/328 kB | 65/647 kBProgress (3): 185/193 kB | 139/328 kB | 70/647 kBProgress (3): 189/193 kB | 139/328 kB | 70/647 kBProgress (3): 189/193 kB | 143/328 kB | 70/647 kBProgress (3): 193 kB | 143/328 kB | 70/647 kB    Progress (3): 193 kB | 147/328 kB | 70/647 kBProgress (3): 193 kB | 152/328 kB | 70/647 kBProgress (3): 193 kB | 156/328 kB | 70/647 kBProgress (3): 193 kB | 160/328 kB | 70/647 kBProgress (3): 193 kB | 164/328 kB | 70/647 kB                                             Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/4.0.3/plexus-utils-4.0.3.jar (193 kB at 832 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.jar
+Progress (2): 169/328 kB | 70/647 kBProgress (2): 173/328 kB | 70/647 kBProgress (2): 177/328 kB | 70/647 kBProgress (2): 181/328 kB | 70/647 kBProgress (2): 186/328 kB | 70/647 kBProgress (2): 190/328 kB | 70/647 kBProgress (2): 194/328 kB | 70/647 kBProgress (2): 198/328 kB | 70/647 kBProgress (3): 198/328 kB | 70/647 kB | 0.9/30 kBProgress (3): 198/328 kB | 70/647 kB | 2.3/30 kBProgress (3): 198/328 kB | 70/647 kB | 3.6/30 kBProgress (3): 198/328 kB | 70/647 kB | 5.0/30 kBProgress (3): 198/328 kB | 70/647 kB | 6.4/30 kBProgress (3): 198/328 kB | 70/647 kB | 7.7/30 kBProgress (3): 198/328 kB | 70/647 kB | 9.1/30 kBProgress (3): 198/328 kB | 70/647 kB | 10/30 kB Progress (3): 198/328 kB | 70/647 kB | 12/30 kBProgress (3): 198/328 kB | 70/647 kB | 13/30 kBProgress (3): 198/328 kB | 70/647 kB | 15/30 kBProgress (3): 198/328 kB | 70/647 kB | 16/30 kBProgress (3): 198/328 kB | 70/647 kB | 17/30 kBProgress (3): 198/328 kB | 70/647 kB | 19/30 kBProgress (3): 198/328 kB | 70/647 kB | 20/30 kBProgress (3): 198/328 kB | 70/647 kB | 21/30 kBProgress (3): 198/328 kB | 70/647 kB | 23/30 kBProgress (3): 198/328 kB | 70/647 kB | 24/30 kBProgress (3): 198/328 kB | 70/647 kB | 26/30 kBProgress (3): 198/328 kB | 70/647 kB | 27/30 kBProgress (3): 198/328 kB | 70/647 kB | 28/30 kBProgress (3): 198/328 kB | 70/647 kB | 30/30 kBProgress (3): 198/328 kB | 70/647 kB | 30 kB                                               Downloaded from central: https://repo.maven.apache.org/maven2/io/github/x-stream/mxparser/1.2.2/mxparser-1.2.2.jar (30 kB at 115 kB/s)
+Progress (2): 202/328 kB | 70/647 kBProgress (2): 202/328 kB | 74/647 kBProgress (2): 202/328 kB | 78/647 kBProgress (2): 207/328 kB | 78/647 kBProgress (2): 211/328 kB | 78/647 kBProgress (2): 211/328 kB | 82/647 kBProgress (2): 211/328 kB | 87/647 kBProgress (2): 215/328 kB | 87/647 kBProgress (2): 219/328 kB | 87/647 kBProgress (2): 224/328 kB | 87/647 kBProgress (2): 224/328 kB | 91/647 kBProgress (2): 224/328 kB | 95/647 kBProgress (2): 224/328 kB | 99/647 kBProgress (2): 224/328 kB | 103/647 kBProgress (2): 224/328 kB | 108/647 kBProgress (2): 240/328 kB | 108/647 kBProgress (2): 240/328 kB | 112/647 kBProgress (2): 240/328 kB | 116/647 kBProgress (2): 240/328 kB | 120/647 kBProgress (2): 256/328 kB | 120/647 kBProgress (2): 256/328 kB | 125/647 kBProgress (2): 256/328 kB | 126/647 kBProgress (2): 262/328 kB | 126/647 kBProgress (2): 262/328 kB | 130/647 kBProgress (2): 262/328 kB | 135/647 kBProgress (2): 262/328 kB | 139/647 kBProgress (2): 262/328 kB | 143/647 kBProgress (2): 278/328 kB | 143/647 kBProgress (2): 294/328 kB | 143/647 kBProgress (3): 294/328 kB | 143/647 kB | 3.8/7.2 kBProgress (3): 294/328 kB | 143/647 kB | 7.2 kB    Progress (3): 311/328 kB | 143/647 kB | 7.2 kB                                              Downloaded from central: https://repo.maven.apache.org/maven2/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.jar (7.2 kB at 19 kB/s)
+Progress (3): 311/328 kB | 143/647 kB | 8.2/473 kBProgress (3): 327/328 kB | 143/647 kB | 8.2/473 kBProgress (3): 328 kB | 143/647 kB | 8.2/473 kB                                                  Downloaded from central: https://repo.maven.apache.org/maven2/org/jdom/jdom2/2.0.6.1/jdom2-2.0.6.1.jar (328 kB at 865 kB/s)
+Progress (2): 143/647 kB | 25/473 kBProgress (2): 143/647 kB | 41/473 kBProgress (2): 147/647 kB | 41/473 kBProgress (2): 151/647 kB | 41/473 kBProgress (2): 151/647 kB | 57/473 kBProgress (2): 151/647 kB | 74/473 kBProgress (2): 156/647 kB | 74/473 kBProgress (2): 160/647 kB | 74/473 kBProgress (2): 160/647 kB | 90/473 kBProgress (2): 164/647 kB | 90/473 kBProgress (2): 164/647 kB | 106/473 kBProgress (2): 168/647 kB | 106/473 kBProgress (2): 173/647 kB | 106/473 kBProgress (2): 177/647 kB | 106/473 kBProgress (2): 181/647 kB | 106/473 kBProgress (2): 185/647 kB | 106/473 kBProgress (2): 185/647 kB | 123/473 kBProgress (2): 189/647 kB | 123/473 kBProgress (2): 194/647 kB | 123/473 kBProgress (2): 198/647 kB | 123/473 kBProgress (2): 202/647 kB | 123/473 kBProgress (2): 206/647 kB | 123/473 kBProgress (2): 211/647 kB | 123/473 kBProgress (2): 227/647 kB | 123/473 kBProgress (2): 243/647 kB | 123/473 kBProgress (2): 243/647 kB | 139/473 kBProgress (2): 257/647 kB | 139/473 kBProgress (2): 257/647 kB | 156/473 kBProgress (2): 257/647 kB | 172/473 kBProgress (2): 274/647 kB | 172/473 kBProgress (2): 274/647 kB | 188/473 kBProgress (2): 274/647 kB | 197/473 kBProgress (2): 274/647 kB | 213/473 kBProgress (2): 274/647 kB | 229/473 kBProgress (2): 274/647 kB | 246/473 kBProgress (2): 274/647 kB | 262/473 kBProgress (2): 290/647 kB | 262/473 kBProgress (2): 306/647 kB | 262/473 kBProgress (2): 306/647 kB | 279/473 kBProgress (2): 306/647 kB | 295/473 kBProgress (2): 323/647 kB | 295/473 kBProgress (2): 323/647 kB | 311/473 kBProgress (2): 339/647 kB | 311/473 kBProgress (2): 339/647 kB | 328/473 kBProgress (2): 339/647 kB | 344/473 kBProgress (2): 339/647 kB | 360/473 kBProgress (2): 355/647 kB | 360/473 kBProgress (2): 355/647 kB | 377/473 kBProgress (2): 355/647 kB | 393/473 kBProgress (2): 355/647 kB | 410/473 kBProgress (2): 355/647 kB | 426/473 kBProgress (2): 355/647 kB | 442/473 kBProgress (2): 355/647 kB | 459/473 kBProgress (2): 372/647 kB | 459/473 kBProgress (2): 388/647 kB | 459/473 kBProgress (2): 405/647 kB | 459/473 kBProgress (2): 421/647 kB | 459/473 kBProgress (2): 437/647 kB | 459/473 kBProgress (2): 454/647 kB | 459/473 kBProgress (2): 470/647 kB | 459/473 kBProgress (2): 471/647 kB | 459/473 kBProgress (2): 487/647 kB | 459/473 kBProgress (2): 487/647 kB | 473 kB    Progress (2): 504/647 kB | 473 kB                                 Downloaded from central: https://repo.maven.apache.org/maven2/org/jsoup/jsoup/1.19.1/jsoup-1.19.1.jar (473 kB at 583 kB/s)
+Progress (1): 520/647 kBProgress (1): 536/647 kBProgress (1): 553/647 kBProgress (1): 569/647 kBProgress (1): 585/647 kBProgress (1): 602/647 kBProgress (1): 618/647 kBProgress (1): 635/647 kBProgress (1): 647 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.21/xstream-1.4.21.jar (647 kB at 744 kB/s)
+[INFO] 
+Effective POMs, after inheritance, interpolation, and profiles are applied:
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ====================================================================== -->
+<!--                                                                        -->
+<!-- Generated by Maven Help Plugin                                         -->
+<!-- See: https://maven.apache.org/plugins/maven-help-plugin/               -->
+<!--                                                                        -->
+<!-- ====================================================================== -->
+<!-- ====================================================================== -->
+<!--                                                                        -->
+<!-- Effective POM for project                                              -->
+<!-- 'PlaywrightPOMSeries:PlaywrightPOMSeries:jar:1.0-SNAPSHOT'             -->
+<!--                                                                        -->
+<!-- ====================================================================== -->
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>PlaywrightPOMSeries</groupId>
+  <artifactId>PlaywrightPOMSeries</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <properties>
+    <extentreports-version>5.0.8</extentreports-version>
+    <maven.compiler.source>21</maven.compiler.source>
+    <maven.compiler.target>21</maven.compiler.target>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+  <dependencies>
+    <dependency>
+      <groupId>com.microsoft.playwright</groupId>
+      <artifactId>playwright</artifactId>
+      <version>1.60.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.testng</groupId>
+      <artifactId>testng</artifactId>
+      <version>7.12.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-simple</artifactId>
+      <version>2.0.17</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.aventstack</groupId>
+      <artifactId>extentreports</artifactId>
+      <version>5.0.8</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+  <repositories>
+    <repository>
+      <snapshots>
+        <enabled>false</enabled>
+      </snapshots>
+      <id>central</id>
+      <name>Central Repository</name>
+      <url>https://repo.maven.apache.org/maven2</url>
+    </repository>
+  </repositories>
+  <pluginRepositories>
+    <pluginRepository>
+      <snapshots>
+        <enabled>false</enabled>
+      </snapshots>
+      <id>central</id>
+      <name>Central Repository</name>
+      <url>https://repo.maven.apache.org/maven2</url>
+    </pluginRepository>
+  </pluginRepositories>
+  <build>
+    <sourceDirectory>/Users/harikamunukutla/Desktop/project/PlaywrightPOMSeries/src/main/java</sourceDirectory>
+    <scriptSourceDirectory>/Users/harikamunukutla/Desktop/project/PlaywrightPOMSeries/src/main/scripts</scriptSourceDirectory>
+    <testSourceDirectory>/Users/harikamunukutla/Desktop/project/PlaywrightPOMSeries/src/test/java</testSourceDirectory>
+    <outputDirectory>/Users/harikamunukutla/Desktop/project/PlaywrightPOMSeries/target/classes</outputDirectory>
+    <testOutputDirectory>/Users/harikamunukutla/Desktop/project/PlaywrightPOMSeries/target/test-classes</testOutputDirectory>
+    <resources>
+      <resource>
+        <directory>/Users/harikamunukutla/Desktop/project/PlaywrightPOMSeries/src/main/resources</directory>
+      </resource>
+    </resources>
+    <testResources>
+      <testResource>
+        <directory>/Users/harikamunukutla/Desktop/project/PlaywrightPOMSeries/src/test/resources</directory>
+      </testResource>
+    </testResources>
+    <directory>/Users/harikamunukutla/Desktop/project/PlaywrightPOMSeries/target</directory>
+    <finalName>PlaywrightPOMSeries-1.0-SNAPSHOT</finalName>
+    <pluginManagement>
+      <plugins>
+        <plugin>
+          <artifactId>maven-antrun-plugin</artifactId>
+          <version>3.1.0</version>
+        </plugin>
+        <plugin>
+          <artifactId>maven-assembly-plugin</artifactId>
+          <version>3.7.1</version>
+        </plugin>
+        <plugin>
+          <artifactId>maven-dependency-plugin</artifactId>
+          <version>3.7.0</version>
+        </plugin>
+        <plugin>
+          <artifactId>maven-release-plugin</artifactId>
+          <version>3.0.1</version>
+        </plugin>
+      </plugins>
+    </pluginManagement>
+    <plugins>
+      <plugin>
+        <artifactId>maven-clean-plugin</artifactId>
+        <version>3.2.0</version>
+        <executions>
+          <execution>
+            <id>default-clean</id>
+            <phase>clean</phase>
+            <goals>
+              <goal>clean</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+      <plugin>
+        <artifactId>maven-resources-plugin</artifactId>
+        <version>3.4.0</version>
+        <executions>
+          <execution>
+            <id>default-testResources</id>
+            <phase>process-test-resources</phase>
+            <goals>
+              <goal>testResources</goal>
+            </goals>
+          </execution>
+          <execution>
+            <id>default-resources</id>
+            <phase>process-resources</phase>
+            <goals>
+              <goal>resources</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+      <plugin>
+        <artifactId>maven-jar-plugin</artifactId>
+        <version>3.5.0</version>
+        <executions>
+          <execution>
+            <id>default-jar</id>
+            <phase>package</phase>
+            <goals>
+              <goal>jar</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+      <plugin>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>3.15.0</version>
+        <executions>
+          <execution>
+            <id>default-compile</id>
+            <phase>compile</phase>
+            <goals>
+              <goal>compile</goal>
+            </goals>
+          </execution>
+          <execution>
+            <id>default-testCompile</id>
+            <phase>test-compile</phase>
+            <goals>
+              <goal>testCompile</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+      <plugin>
+        <artifactId>maven-surefire-plugin</artifactId>
+        <version>3.5.4</version>
+        <executions>
+          <execution>
+            <id>default-test</id>
+            <phase>test</phase>
+            <goals>
+              <goal>test</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+      <plugin>
+        <artifactId>maven-install-plugin</artifactId>
+        <version>3.1.4</version>
+        <executions>
+          <execution>
+            <id>default-install</id>
+            <phase>install</phase>
+            <goals>
+              <goal>install</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+      <plugin>
+        <artifactId>maven-deploy-plugin</artifactId>
+        <version>3.1.4</version>
+        <executions>
+          <execution>
+            <id>default-deploy</id>
+            <phase>deploy</phase>
+            <goals>
+              <goal>deploy</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+      <plugin>
+        <artifactId>maven-site-plugin</artifactId>
+        <version>3.12.1</version>
+        <executions>
+          <execution>
+            <id>default-site</id>
+            <phase>site</phase>
+            <goals>
+              <goal>site</goal>
+            </goals>
+            <configuration>
+              <outputDirectory>/Users/harikamunukutla/Desktop/project/PlaywrightPOMSeries/target/site</outputDirectory>
+              <reportPlugins>
+                <reportPlugin>
+                  <groupId>org.apache.maven.plugins</groupId>
+                  <artifactId>maven-project-info-reports-plugin</artifactId>
+                </reportPlugin>
+              </reportPlugins>
+            </configuration>
+          </execution>
+          <execution>
+            <id>default-deploy</id>
+            <phase>site-deploy</phase>
+            <goals>
+              <goal>deploy</goal>
+            </goals>
+            <configuration>
+              <outputDirectory>/Users/harikamunukutla/Desktop/project/PlaywrightPOMSeries/target/site</outputDirectory>
+              <reportPlugins>
+                <reportPlugin>
+                  <groupId>org.apache.maven.plugins</groupId>
+                  <artifactId>maven-project-info-reports-plugin</artifactId>
+                </reportPlugin>
+              </reportPlugins>
+            </configuration>
+          </execution>
+        </executions>
+        <configuration>
+          <outputDirectory>/Users/harikamunukutla/Desktop/project/PlaywrightPOMSeries/target/site</outputDirectory>
+          <reportPlugins>
+            <reportPlugin>
+              <groupId>org.apache.maven.plugins</groupId>
+              <artifactId>maven-project-info-reports-plugin</artifactId>
+            </reportPlugin>
+          </reportPlugins>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+  <reporting>
+    <outputDirectory>/Users/harikamunukutla/Desktop/project/PlaywrightPOMSeries/target/site</outputDirectory>
+  </reporting>
+</project>
+
+
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  2.994 s
+[INFO] Finished at: 2026-09-08T11:08:16+05:30
+[INFO] ------------------------------------------------------------------------
