@@ -6,6 +6,7 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.nio.file.Paths;
+import java.util.Base64;
 import java.util.Properties;
 
 public class PlaywrightFactory {
@@ -80,9 +81,13 @@ public class PlaywrightFactory {
     }
     public static String takeScreenshot(){
         String path=System.getProperty("user.dir")+"/screenshots/"+System.currentTimeMillis()+".png";
-        getPage().screenshot(new Page.ScreenshotOptions()
+//        getPage().screenshot(new Page.ScreenshotOptions()
+//                .setPath(Paths.get(path))
+//                .setFullPage(true));
+        byte[] buffer=getPage().screenshot(new Page.ScreenshotOptions()
                 .setPath(Paths.get(path))
                 .setFullPage(true));
-        return path;
+        String base64path=Base64.getEncoder().encodeToString(buffer);
+        return base64path;
     }
 }
