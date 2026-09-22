@@ -13,12 +13,12 @@
             <class name="com.qa.opencart.test.HomePageTest" />
         </classes>
     </test>
-<!--    <test name="Open Cart Login Page Test_firefox">-->
-<!--        <parameter name="browser" value="firefox" />-->
-<!--        <classes>-->
-<!--            <class name="com.qa.opencart.test.LoginPageTest" />-->
-<!--        </classes>-->
-<!--    </test>-->
+    <test name="Open Cart Login Page Test_firefox">
+        <parameter name="browser" value="firefox" />
+        <classes>
+            <class name="com.qa.opencart.test.LoginPageTest" />
+        </classes>
+    </test>
     <test name="Open Cart Home Page Test_chromium">
         <parameter name="browser" value="chromium" />
         <classes>
